@@ -5,22 +5,22 @@ packages:
     actions:
       csv:
         function: dist/Csv.js
-        runtime: nodejs:8
+        runtime: nodejs:12
       each:
         function: dist/Each.js
-        runtime: nodejs:8
+        runtime: nodejs:12
       flatten:
         function: dist/Flatten.js
-        runtime: nodejs:8
+        runtime: nodejs:12
       jsonata:
         function: dist/Jsonata.js
-        runtime: nodejs:8
+        runtime: nodejs:12
       map:
         function: dist/Map.js
-        runtime: nodejs:8
+        runtime: nodejs:12
       pick:
         function: dist/Pick.js
-        runtime: nodejs:8
+        runtime: nodejs:12
       request:
         function: dist/Request.js
-        runtime: nodejs:8
+        runtime: nodejs:12

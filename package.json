@@ -23,7 +23,7 @@
     "webpack-cli": "^3.1.0"
   },
   "dependencies": {
-    "jsonata": "^1.5.4",
+    "jsonata": "^1.8.0",
     "openwhisk": "^3.16.0",
     "request": "^2.87.0",
     "request-promise": "^4.2.2"
